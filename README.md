@@ -4,7 +4,7 @@
 
 ## Installation
 
-###### Download the entire public repository including the .txt files for the script to function properyl. Can be ran out of a terminal directory path using:
+###### Download the entire public repository including the .txt files for the script to function properly. Can be ran out of a terminal directory path using:
 ```
 /{file location}/python3 main.py
 ```
